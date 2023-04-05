@@ -1,5 +1,5 @@
 # Introduction
-This is a collection of useful online resources for Obsidian. 
+This is a collection of useful online resources for Obsidian kept in a simple json file making it easy to edit.
 
 # Idea
 Keep it simple and the list is easy to edit
