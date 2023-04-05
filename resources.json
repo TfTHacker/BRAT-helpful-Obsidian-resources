@@ -4,6 +4,6 @@
   { name: "Breadcrumbs",     desc: "Breadcrumbs Plugin Help", url: "https://skepticmystic.github.io/breadcrumbs/" },
   { name: "Developer Docs",  desc: "Developer documentation by @marcusolsson", url: "https://marcus.se.net/obsidian-plugin-docs/" },
   { name: "Community Hub",   desc: "Community Hub",  url: "https://publish.obsidian.md/hub/00+-+Start+here" },
-  { name: "Theme Variables", desc: "Obsidian Theme Variable",  url: "https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/Default+Obsidian+Theme+Colors"},
+  { name: "Theme Variables", desc: "Obsidian Theme Variable",  url: "https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/Default+Obsidian+Theme+Colors" },
   { name: "Templater",       desc: "Templater Plugin Help", url: "https://silentvoid13.github.io/Templater/internal-functions/overview.html" },
 ]
