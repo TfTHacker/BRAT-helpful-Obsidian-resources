@@ -1,9 +1,9 @@
 [
-  { title: "Dataview",        desc: "Dataview Plugin Help", url: "https://blacksmithgu.github.io/obsidian-dataview/" },
-  { title: "Kanban",          desc: "Kanban Plugin Help",   url: "https://publish.obsidian.md/kanban/Obsidian+Kanban+Plugin"},
-  { title: "Breadcrumbs",     desc: "Breadcrumbs Plugin Help", url: "https://skepticmystic.github.io/breadcrumbs/" },
-  { title: "Developer Docs",  desc: "Developer documentation by @marcusolsson", url: "https://marcus.se.net/obsidian-plugin-docs/" },
-  { title: "Community Hub",   desc: "Community Hub",  url: "https://publish.obsidian.md/hub/00+-+Start+here" },
-  { title: "Theme Variables", desc: "Obsidian Theme Variable",  url: "https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/Default+Obsidian+Theme+Colors" },
-  { title: "Templater",       desc: "Templater Plugin Help", url: "https://silentvoid13.github.io/Templater/internal-functions/overview.html" }
+  { "title": "Dataview",        desc: "Dataview Plugin Help", url: "https://blacksmithgu.github.io/obsidian-dataview/" },
+  { "title": "Kanban",          desc: "Kanban Plugin Help",   url: "https://publish.obsidian.md/kanban/Obsidian+Kanban+Plugin"},
+  { "title": "Breadcrumbs",     desc: "Breadcrumbs Plugin Help", url: "https://skepticmystic.github.io/breadcrumbs/" },
+  { "title": "Developer Docs",  desc: "Developer documentation by @marcusolsson", url: "https://marcus.se.net/obsidian-plugin-docs/" },
+  { "title": "Community Hub",   desc: "Community Hub",  url: "https://publish.obsidian.md/hub/00+-+Start+here" },
+  { "title": "Theme Variables", desc: "Obsidian Theme Variable",  url: "https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/Default+Obsidian+Theme+Colors" },
+  { "title": "Templater",       desc: "Templater Plugin Help", url: "https://silentvoid13.github.io/Templater/internal-functions/overview.html" }
 ]
